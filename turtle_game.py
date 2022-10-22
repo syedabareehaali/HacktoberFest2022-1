@@ -47,7 +47,7 @@ for i in range(20):
              print("The number of steps will be: ",20*die_outcome)
              print()
              player_one.fd(20*die_outcome)
-             print("********************************************************************")
+             print("*********************************************************************")
 
              
              player_two_turn = input("Player 2 Turn: Press 'Enter' to roll the die ")
